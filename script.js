@@ -9,7 +9,7 @@ function type() {
     setTimeout(type, 200); // Waktu untuk setiap karakter
   } else {
     typingTextElement.innerHTML += "<br>"; // Membuat baris baru setelah selesai
-    typingTextElement.innerHTML += "Bumdes Taman Trikolot Cilandak Lor"; // Teks kedua jika ingin
+    typingTextElement.innerHTML += "BUMDes Taman Trikolot Cilandak Lor"; // Teks kedua jika ingin
   }
 }
 
